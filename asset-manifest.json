@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shaik1201/Calculator.git/static/css/main.6a1c5583.chunk.css",
+    "main.js": "/shaik1201/Calculator.git/static/js/main.54e0d57b.chunk.js",
+    "main.js.map": "/shaik1201/Calculator.git/static/js/main.54e0d57b.chunk.js.map",
+    "runtime-main.js": "/shaik1201/Calculator.git/static/js/runtime-main.19e03872.js",
+    "runtime-main.js.map": "/shaik1201/Calculator.git/static/js/runtime-main.19e03872.js.map",
+    "static/js/2.2cbc9d20.chunk.js": "/shaik1201/Calculator.git/static/js/2.2cbc9d20.chunk.js",
+    "static/js/2.2cbc9d20.chunk.js.map": "/shaik1201/Calculator.git/static/js/2.2cbc9d20.chunk.js.map",
+    "static/js/3.11376b07.chunk.js": "/shaik1201/Calculator.git/static/js/3.11376b07.chunk.js",
+    "static/js/3.11376b07.chunk.js.map": "/shaik1201/Calculator.git/static/js/3.11376b07.chunk.js.map",
+    "index.html": "/shaik1201/Calculator.git/index.html",
+    "static/css/main.6a1c5583.chunk.css.map": "/shaik1201/Calculator.git/static/css/main.6a1c5583.chunk.css.map",
+    "static/js/2.2cbc9d20.chunk.js.LICENSE.txt": "/shaik1201/Calculator.git/static/js/2.2cbc9d20.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shaik1201/Calculator.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19e03872.js",
+    "static/js/2.2cbc9d20.chunk.js",
+    "static/css/main.6a1c5583.chunk.css",
+    "static/js/main.54e0d57b.chunk.js"
+  ]
+}
